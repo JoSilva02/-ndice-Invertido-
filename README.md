@@ -1,4 +1,4 @@
-# Índice-Invertido-
+# Índice Invertido
 Trabalho Avaliativo - Estrutura de dados
 Discente: Jonathan Emerson, 2023010567
 Curso: Ciências da Computação, 2023.2
